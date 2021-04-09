@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Jimmy",
+            "age": 30,
+            "city": "Skopje",
+            "username": "jimmy",
+            "password": "jimmy2020"
+        },
+        {
+            "id": 2,
+            "name": "James",
+            "age": 20,
+            "city": "Skopje",
+            "username": "james",
+            "password": "123james"
+        }
+    ]
+}
